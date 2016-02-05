@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.14231951660136366
+  lightness: 0.0967456296636301
+  rhythmicContrast: 0.05730754131770377
+  saturation: 0.6960872335493182
+cta: {}
+layout_spectrum: 0.5236349376015181
+name: security
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.9385895878205008
